@@ -6,7 +6,7 @@ ctx.canvas.width = window.innerWidth;
 ctx.canvas.height = window.innerHeight;
 
 let particlesArray;
-
+// Hello there 
 let mouse = {
     x : null,
     y : null,
